@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.znextech.trhel",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "monolith",
+    "baseName": "tr7lBackend",
+    "packageName": "com.znextech.trhel",
+    "packageFolder": "com/znextech/trhel",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2M5YmJiNjkzNjNiOWU3OWUzYzA2ZjY0MDQxNzhkM2Y2YTk2ZTQ4ZDlkYzYwNjY3NTgwZDFjNGQ0ZGM3NTg0NWQ0MjFiM2I5ZDUwMmYzNzE3ZjgxZmUwZjU0NTQ3MGYxMGViYzkwY2JiYTA0MzVlNzM2NjhlNzU0NTVkMmVkYjU=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ar-ly"
+    ],
+    "skipClient": true
+  }
+}
